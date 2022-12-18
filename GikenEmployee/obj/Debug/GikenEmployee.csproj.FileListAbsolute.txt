@@ -1,0 +1,10 @@
+C:\Users\Alfarizi\source\repos\GikenEmployee\GikenEmployee\obj\Debug\GikenEmployee.csproj.AssemblyReference.cache
+C:\Users\Alfarizi\source\repos\GikenEmployee\GikenEmployee\obj\Debug\GikenEmployee.Form1.resources
+C:\Users\Alfarizi\source\repos\GikenEmployee\GikenEmployee\obj\Debug\GikenEmployee.Properties.Resources.resources
+C:\Users\Alfarizi\source\repos\GikenEmployee\GikenEmployee\obj\Debug\GikenEmployee.csproj.GenerateResource.cache
+C:\Users\Alfarizi\source\repos\GikenEmployee\GikenEmployee\obj\Debug\GikenEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Alfarizi\source\repos\GikenEmployee\GikenEmployee\bin\Debug\GikenEmployee.exe.config
+C:\Users\Alfarizi\source\repos\GikenEmployee\GikenEmployee\bin\Debug\GikenEmployee.exe
+C:\Users\Alfarizi\source\repos\GikenEmployee\GikenEmployee\bin\Debug\GikenEmployee.pdb
+C:\Users\Alfarizi\source\repos\GikenEmployee\GikenEmployee\obj\Debug\GikenEmployee.exe
+C:\Users\Alfarizi\source\repos\GikenEmployee\GikenEmployee\obj\Debug\GikenEmployee.pdb
